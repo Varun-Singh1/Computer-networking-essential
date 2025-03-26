@@ -1,33 +1,33 @@
 # Computer Networking Essential #
 
-# Booting Proces
+# 1. Booting Proces
 
-# What is network 
+# 2. What is network 
 
-# IP Address and Configuration 
+# 3. IP Address and Configuration 
 
-# Classfull Address
+# 4. Classfull Address
 
-# Public and Private IP Address 
+# 5. Public and Private IP Address 
 
-# IP Assigning Rules 
+# 6. IP Assigning Rules 
 
-# Reserved IP 
+# 7. Reserved IP 
 
-# Network or Subnet Mask 
+# 8. Network or Subnet Mask 
 
-# Network Topology 
+# 9. Network Topology 
 
-# Transmissin media in networking 
+# 10. Transmissin media in networking 
 
-# Mac Address 
+# 11. Mac Address  
 
-# Networking device in computer network 
+# 12. Networking device in computer network 
 
-# OSI Model 
+# 13. OSI Model 
 
-# TCP/IP Model 
+# 14. TCP/IP Model 
 
-# Virtual box 
+# 15. Virtual box 
 
 # Windows Manager  
